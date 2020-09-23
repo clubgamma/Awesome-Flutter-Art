@@ -46,11 +46,18 @@ Here are the simple steps for contributing to this repo
     
       - First of all, make a folder with named as your GitHub username and this is compulsory.
       
+      ![namefolder](https://user-images.githubusercontent.com/58077762/93989586-b5d19b00-fda7-11ea-988b-d0d456dcff4d.png)
+      
       - After that start writing code inside that folder only and you know what you have to code😉. Create anything you want using Flutter only!!
+      
+      ![foldercontent](https://user-images.githubusercontent.com/58077762/93989598-b9fdb880-fda7-11ea-8593-fb9523a367a8.png)
       
       - After finishing with the coding part, take snapshots of your creations or make a GIF if you have made any kind of animation✨✨. 
       
         Add the snapshot/GIF under the **Art-Work** section in this README.
+        
+        ![example](https://user-images.githubusercontent.com/58077762/93989605-bcf8a900-fda7-11ea-9629-c244f6ef7274.png)
+
   
   - **Now it's time to save the work**
       
