@@ -79,6 +79,8 @@ Here are the simple steps for contributing to this repo
       - After that you have to write your GitHub username as the title of your pull-request and describe your work if you want and that's it!!
         Create a pull-request by clicking the button
         
+        Mark the pull request as **Ready for Review**
+        
         Also add the below 2 lines in the description. It is compulsory for sucessful submission.
         
           - [X] I have read the Code Of Conduct.
