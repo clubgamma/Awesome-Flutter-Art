@@ -78,6 +78,13 @@ Here are the simple steps for contributing to this repo
         
       - After that you have to write your GitHub username as the title of your pull-request and describe your work if you want and that's it!!
         Create a pull-request by clicking the button
+        
+        Also add the below 2 lines in the description. It is compulsory for sucessful submission.
+        
+          - [X] I have read the Code Of Conduct.
+        
+          - [X] I have followed all the steps of submission properly.
+        
         ![pr3](https://user-images.githubusercontent.com/58077762/93779010-1e076c00-fc44-11ea-86f0-7a6d74380624.png)
 
 **Woohoo!! Congratulations on making your open source contribution🎉🎉**
