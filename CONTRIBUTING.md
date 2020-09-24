@@ -8,7 +8,7 @@ Here are the simple steps for contributing to this repo
 
   - **READ CODE OF CONDUCT**
      
-     Read the [Code of Conduct](https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/CODE_OF_CONDUCT.md) before starting contributing.
+     Read the [Code of Conduct](https://github.com/clubgamma/code-of-conduct) before starting contributing.
 
   - **Fork the repo**
     
