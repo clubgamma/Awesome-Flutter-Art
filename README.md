@@ -7,7 +7,9 @@
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/graphs/contributors"><img src="https://img.shields.io/github/contributors/rudrabarad/Medi-Consult?color=orange"/></a>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/rudrabarad/Medi-Consult?color=1abc9c"/></a>
 <br>
+<i>If you want to add any feature or if you found a bug, feel free to open an issue</i>  
 <a href="mailto:gce@charusat.edu.in?subject=Query%20Reg.%20CSS%20Hacktoberfest%20Project"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-red"/></a>
+<br><br>
 </div>
 
 A curated list of awesome Flutter artwork 🤩. 
