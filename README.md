@@ -1,9 +1,5 @@
 <h1 align="center">Awesome Flutter Art</h1>
 
-<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-red"/></a>
-<br><br><br>
-</div>
 
 A curated list of awesome Flutter artwork 🤩. 
 
