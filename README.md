@@ -1,5 +1,8 @@
 <h1 align="center">Awesome Flutter Art</h1>
 <div align="center">  
+
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5f367b75ae6ff53bb868f3d56567b1df/raw/discord.json)
+
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/stargazers"><img src="https://img.shields.io/github/stars/rudrabarad/Medi-Consult?style=flat"/></a>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/network/members"><img src="https://img.shields.io/github/forks/rudrabarad/Medi-Consult?style=flat"/></a>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/pulls"><img src="https://img.shields.io/github/issues-pr/rudrabarad/Medi-Consult?style=flat?color=yellow"/></a>
