@@ -1,5 +1,16 @@
 <h1 align="center">Awesome Flutter Art</h1>
-
+<div align="center">  
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/stargazers"><img src="https://img.shields.io/github/stars/rudrabarad/Medi-Consult?style=flat"/></a>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/network/members"><img src="https://img.shields.io/github/forks/rudrabarad/Medi-Consult?style=flat"/></a>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/pulls"><img src="https://img.shields.io/github/issues-pr/rudrabarad/Medi-Consult?style=flat?color=yellow"/></a>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues"><img src="https://img.shields.io/github/issues/rudrabarad/Medi-Consult?style=flat"/></a>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/graphs/contributors"><img src="https://img.shields.io/github/contributors/rudrabarad/Medi-Consult?color=orange"/></a>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/rudrabarad/Medi-Consult?color=1abc9c"/></a>
+<br>
+<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-red"/></a>
+<br><br><br>
+</div>
 
 A curated list of awesome Flutter artwork 🤩. 
 
@@ -19,3 +30,10 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
   - **Club Gamma swags will only be shipped inside India**
   - **Only first 30 contributors who successfully submit minimum 3 PRs to any of the projects in Club Gamma organization will get Club Gamma swags**
   - **To get Digital Ocean swags, you just have to make minimum 4 PRs to any open source projects on GitHub**
+  
+<div align="center">  
+![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
+![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
+<a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Me_Anything-blue"/></a><br>
+<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
+</div>
