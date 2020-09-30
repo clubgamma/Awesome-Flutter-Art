@@ -33,8 +33,8 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
   - **To get Digital Ocean swags, you just have to make minimum 4 PRs to any open source projects on GitHub**
 <br><br>
 <div align="center">  
-<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br>
-<br>  
+<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
+
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
