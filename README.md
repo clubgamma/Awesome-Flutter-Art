@@ -8,7 +8,7 @@
 <a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/clubgamma/Awesome-Flutter-Art?color=1abc9c"/></a>
 <br>
   
-[![](https://img.shields.io/badge/Club-Gamma-%23FF0000.svg?&style=flat&logoColor=white&color=red)](https://clubgamma.github.io/#/)
+[![](https://img.shields.io/badge/Club-Gamma-%23FF0000.svg?&style=flat&logoColor=white&color=red)](https://clubgamma.github.io/hacktoberfest/)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5f367b75ae6ff53bb868f3d56567b1df/raw/discord.json)](https://discord.gg/kjnp6wU)
 <br><br><br>
 </div>
