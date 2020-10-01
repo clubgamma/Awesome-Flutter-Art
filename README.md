@@ -24,7 +24,10 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | Art💖 | Code📃 | Artist😎 |
 |---|---|---|
 | <img src="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/yashpaneliya/dash2.JPG" width=80% height=60%> | [Find the code here](https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/yashpaneliya/main.dart) | [Yash Paneliya](https://github.com/yashpaneliya) |
+
 | <img src="https://user-images.githubusercontent.com/58872826/94798939-fd87a080-03ff-11eb-9a9d-b2bfb8418139.gif" width=80% height=60%> | [Find the code here](https://github.com/Shubham-2007/Awesome-Flutter-Art/blob/master/Shubham-2007/time_clock) | [Shubham Mendapara](https://github.com/Shubham-2007) |
+
+| <img src="https://github.com/smit4297/Awesome-Flutter-Art/blob/master/smitpatel/login.jpeg" > | [Find the code here](https://github.com/smit4297/Awesome-Flutter-Art/blob/master/smitpatel/login.dart) | [Smit Patel](https://github.com/smit4297) |
 
 
 # Things to keep in mind
