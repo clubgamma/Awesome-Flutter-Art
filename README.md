@@ -28,6 +28,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/smit4297/Awesome-Flutter-Art/blob/master/smitpatel/login.jpeg" > | [Find the code here](https://github.com/smit4297/Awesome-Flutter-Art/blob/master/smitpatel/login.dart) | [Smit Patel](https://github.com/smit4297) |
 | <img src="https://user-images.githubusercontent.com/58872826/94799325-91596c80-0400-11eb-8d7f-3d0296f62c25.gif" width=80% height=60%> | [Find the code here](https://github.com/Shubham-2007/Awesome-Flutter-Art/blob/master/Shubham-2007/loginUI) | [Shubham Mendapara](https://github.com/Shubham-2007) |
 | <img src="https://user-images.githubusercontent.com/58872826/94800902-e4342380-0402-11eb-9b4b-478cacfa0148.jpeg" width=80% height=60%> | [Find the code here](https://github.com/Shubham-2007/Awesome-Flutter-Art/blob/master/Shubham-2007/custom_clock) | [Shubham Mendapara](https://github.com/Shubham-2007) |
+| <img src="https://user-images.githubusercontent.com/58872826/94801965-7983e780-0404-11eb-9c8a-678254ebc425.gif" width=80% height=60%> | [Find the code here](https://github.com/Shubham-2007/Awesome-Flutter-Art/blob/master/Shubham-2007/car_demo) | [Shubham Mendapara](https://github.com/Shubham-2007) |
 
 # Things to keep in mind
 
