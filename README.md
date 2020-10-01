@@ -24,7 +24,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | Art💖 | Code📃 | Artist😎 |
 |---|---|---|
 | <img src="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/yashpaneliya/dash2.JPG" width=80% height=60%> | [Find the code here](https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/yashpaneliya/main.dart) | [Yash Paneliya](https://github.com/yashpaneliya) |
-
+| <img src="https://github.com/smit4297/Awesome-Flutter-Art/blob/master/smitpatel/login.jpeg" > | [Find the code here](https://github.com/smit4297/Awesome-Flutter-Art/blob/master/smitpatel/login.dart) | [Smit Patel](https://github.com/smit4297) |
 
 # Things to keep in mind
 
