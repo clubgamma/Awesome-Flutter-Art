@@ -63,17 +63,18 @@ Here are the simple steps for contributing to this repo
       
       - Stage the changes you have made by firing the below command
         > git add -A
-      - Commit the changes 
+        
+      - Create a new branch while you commit the changes
+      
+      - Commit your all files in that branch
         > git commit -m "Description of changes/your work"
-      - Push the changes to your forked repo
-        > git push origin master
   
   - **Let's finish this**
   
       - Go to your forked repo on GitHub website and refresh the page, you'll see something like the below image
         ![pr1](https://user-images.githubusercontent.com/58077762/93778051-172c2980-fc43-11ea-97bb-410e1689df4d.png)
         
-      - Click on pull-request and you will be redirected to another page where you will see something like below image
+      - Click on pull-request and you will be redirected to another page where you will see something like below image (If you have created branch then you'll see compare & pull request)
         ![pr2](https://user-images.githubusercontent.com/58077762/93778056-185d5680-fc43-11ea-8477-a2b6773266e2.png)
         
       - After that you have to write your GitHub username as the title of your pull-request and describe your work if you want and that's it!!
