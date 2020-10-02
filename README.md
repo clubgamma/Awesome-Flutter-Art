@@ -33,6 +33,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/jerry2501/Awesome-Flutter-Art/blob/master/jerry2501/jerry2501.jpg" width=50% height=30%> | [Find the code here](https://github.com/jerry2501/Awesome-Flutter-Art/blob/master/jerry2501/main.dart) | [Jignesh Kukadiya](https://github.com/jerry2501) |
 
 
+
 # Things to keep in mind
 
   - **Before creating any Pull Request, please register yourself at [Hacktoberfest's Official Website](https://hacktoberfest.digitalocean.com/)**
