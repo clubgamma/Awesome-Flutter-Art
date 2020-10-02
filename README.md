@@ -32,6 +32,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://user-images.githubusercontent.com/58872848/94804275-2b70e300-0408-11eb-9360-9b24678b9d50.jpg" width=80% height=60%>  | [Find the code here](https://github.com/krish-pabani/Awesome-Flutter-Art/blob/master/krish-pabani/categories_card) | [Krish Pabani](https://github.com/krish-pabani)        |
 | <img src="https://github.com/jerry2501/Awesome-Flutter-Art/blob/master/jerry2501/jerry2501.jpg" width=50% height=30%>                  | [Find the code here](https://github.com/jerry2501/Awesome-Flutter-Art/blob/master/jerry2501/main.dart)             | [Jignesh Kukadiya](https://github.com/jerry2501)       |
 | ![covid_tracker](madhavtripathi05/images/covid_tracker.jpeg)                                                                           | [Find the code here](https://github.com/madhavtripathi05/COVID_19_TRACKER)                                         | [Madhav Tripathi](https://github.com/madhavtripathi05) |
+| ![ml_dashboard](madhavtripathi05/images/ml_dashboard.jpeg)                                                                             | [Find the code here](https://github.com/madhavtripathi05/ml_examples)                                              | [Madhav Tripathi](https://github.com/madhavtripathi05) |
 
 # Things to keep in mind
 
