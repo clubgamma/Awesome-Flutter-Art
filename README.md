@@ -31,6 +31,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://user-images.githubusercontent.com/58872826/94801965-7983e780-0404-11eb-9c8a-678254ebc425.gif" width=80% height=60%> | [Find the code here](https://github.com/Shubham-2007/Awesome-Flutter-Art/blob/master/Shubham-2007/car_demo) | [Shubham Mendapara](https://github.com/Shubham-2007) |
 | <img src="https://user-images.githubusercontent.com/58872848/94804275-2b70e300-0408-11eb-9360-9b24678b9d50.jpg" width=80% height=60%> | [Find the code here](https://github.com/krish-pabani/Awesome-Flutter-Art/blob/master/krish-pabani/categories_card) | [Krish Pabani](https://github.com/krish-pabani) |
 | <img src="https://github.com/jerry2501/Awesome-Flutter-Art/blob/master/jerry2501/jerry2501.jpg" width=50% height=30%> | [Find the code here](https://github.com/jerry2501/Awesome-Flutter-Art/blob/master/jerry2501/main.dart) | [Jignesh Kukadiya](https://github.com/jerry2501) |
+| <img src="https://github.com/tanharpatel/Awesome-Flutter-Art/blob/master/tanharpatel/AnimateText.gif" width=50% height=30%> | [Find the code here](https://github.com/tanharpatel/Awesome-Flutter-Art/blob/master/tanharpatel/main.dart) | [Tanha Patel](https://github.com/tanharpatel) |
 
 
 # Things to keep in mind
