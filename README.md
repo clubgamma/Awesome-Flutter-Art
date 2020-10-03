@@ -37,10 +37,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/output.gif" width=80% height=60%> | [Find the code here](https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/main.dart) | [Abhishek Doshi](https://github.com/AbhishekDoshi26) |
 | <img src="https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/wallpaper.png" width=80% height=60%> | [Find the code here](https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/main_wallpaper.dart) | [Abhishek Doshi](https://github.com/AbhishekDoshi26) |
 | <img src="https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/whatsapp.jpg" width=80% height=50%> | [Find the code here](https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/main_whatsappdm.dart) | [Abhishek Doshi](https://github.com/AbhishekDoshi26) |
-| <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/README.md" width=80% height=50%> |
-[Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) |
-[Lypsa Shah](https://github.com/lypsa028)
-| <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/README.md" width=80% height=50%> | [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) | [Lypsa Shah](https://github.com/lypsa028) |
+| <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/flutter-bmi-calculator.png" width=80% height=50%> | [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) | [Lypsa Shah](https://github.com/lypsa028) |
 
 
 # Things to keep in mind
