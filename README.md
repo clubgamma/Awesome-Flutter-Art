@@ -40,6 +40,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/README.md" width=80% height=50%> |
 [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) |
 [Lypsa Shah](https://github.com/lypsa028)
+| <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/README.md" width=80% height=50%> | [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) | [Lypsa Shah](https://github.com/lypsa028) |
 
 
 # Things to keep in mind
