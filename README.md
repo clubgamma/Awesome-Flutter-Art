@@ -40,6 +40,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/flutter-bmi-calculator.png" width=70% height=70%> | [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) | [Lypsa Shah](https://github.com/lypsa028) |
 | <img src="https://github.com/tanharpatel/Awesome-Flutter-Art/blob/master/tanharpatel/AnimatedIntro.gif" width=50% height=30%> | [Find the code here](https://github.com/tanharpatel/Awesome-Flutter-Art/blob/master/tanharpatel/AnimatedIntro.dart) | [Tanha Patel](https://github.com/tanharpatel) |
 | <img src="https://github.com/hutomosaktikartiko/Awesome-Flutter-Art/blob/master/hutomosaktikartiko/ripple_animation.gif" width=65% height=80%> | [Find the code here](https://github.com/hutomosaktikartiko/Awesome-Flutter-Art/blob/master/hutomosaktikartiko/ripple_animation.dart) | [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko) |
+| <img src="m-prth\capture.jpg" width=65% height=80%> | [Find the code here](m-prth) | [Parth Mistry](https://github.com/m-prth) |
 
 
 # Things to keep in mind
