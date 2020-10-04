@@ -39,6 +39,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/whatsapp.jpg" width=80% height=50%> | [Find the code here](https://github.com/AbhishekDoshi26/Awesome-Flutter-Art/blob/master/AbhishekDoshi26/main_whatsappdm.dart) | [Abhishek Doshi](https://github.com/AbhishekDoshi26) |
 | <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/flutter-bmi-calculator.png" width=70% height=70%> | [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/main.dart) | [Lypsa Shah](https://github.com/lypsa028) |
 | <img src="https://github.com/tanharpatel/Awesome-Flutter-Art/blob/master/tanharpatel/AnimatedIntro.gif" width=50% height=30%> | [Find the code here](https://github.com/tanharpatel/Awesome-Flutter-Art/blob/master/tanharpatel/AnimatedIntro.dart) | [Tanha Patel](https://github.com/tanharpatel) |
+| <img src="https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/destini-finished-flutter.png" width=70% height=70%> | [Find the code here](https://github.com/lypsa028/Awesome-Flutter-Art/blob/master/lypsa028/story_app_main.dart) | [Lypsa Shah](https://github.com/lypsa028) |
 
 
 # Things to keep in mind
