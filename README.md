@@ -44,6 +44,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://user-images.githubusercontent.com/32811341/95011223-c22de180-064c-11eb-819b-fafa188252d7.gif" width=32% height=30%> | [Find the code here](https://github.com/Zafershah24/Awesome-Flutter-Art/tree/zafer/zafer) | [Zafer Shah](https://github.com/Zafershah24) |
 | <img src="https://github.com/m-prth/Awesome-Flutter-Art/blob/master/m-prth/capture.jpg" width=80% height=50%> | [Find the code here](https://github.com/m-prth/Awesome-Flutter-Art/blob/master/m-prth/) | [Parth Mistry](https://github.com/m-prth) |
 | <img src="https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/corousel.gif" width=80% height=90%> | [Find the code here](https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/) | [Code Creator](https://github.com/c0decreat0r) |
+| <img src="https://raw.githubusercontent.com/chirayu-joshi/Awesome-Flutter-Art/master/chirayu-joshi/loading_animation.gif" height="100%"> | [Find the code here](https://github.com/chirayu-joshi/Awesome-Flutter-Art/blob/master/chirayu-joshi/main.dart) | [chirayu-joshi](https://github.com/chirayu-joshi/) |
 
 
 # Things to keep in mind
