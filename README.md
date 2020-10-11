@@ -44,6 +44,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://user-images.githubusercontent.com/32811341/95011223-c22de180-064c-11eb-819b-fafa188252d7.gif" width=32% height=30%> | [Find the code here](https://github.com/Zafershah24/Awesome-Flutter-Art/tree/zafer/zafer) | [Zafer Shah](https://github.com/Zafershah24) |
 | <img src="https://github.com/m-prth/Awesome-Flutter-Art/blob/master/m-prth/capture.jpg" width=80% height=50%> | [Find the code here](https://github.com/m-prth/Awesome-Flutter-Art/blob/master/m-prth/) | [Parth Mistry](https://github.com/m-prth) |
 | <img src="https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/corousel.gif" width=80% height=90%> | [Find the code here](https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/) | [Code Creator](https://github.com/c0decreat0r) |
+| <img src="https://github.com/xyther14/Awesome-Flutter-Art/blob/master/xyther14/valorant-roulette.gif" width=80% height=90%> | [Find the code here](https://github.com/xyther14/Awesome-Flutter-Art) | [Code Creator](https://github.com/xyther14) |
 
 
 # Things to keep in mind
