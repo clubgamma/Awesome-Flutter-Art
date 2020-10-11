@@ -45,6 +45,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/m-prth/Awesome-Flutter-Art/blob/master/m-prth/capture.jpg" width=80% height=50%> | [Find the code here](https://github.com/m-prth/Awesome-Flutter-Art/blob/master/m-prth/) | [Parth Mistry](https://github.com/m-prth) |
 | <img src="https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/corousel.gif" width=80% height=90%> | [Find the code here](https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/) | [Code Creator](https://github.com/c0decreat0r) |
 | <img src="https://raw.githubusercontent.com/chirayu-joshi/Awesome-Flutter-Art/master/chirayu-joshi/loading_animation.gif" height="100%"> | [Find the code here](https://github.com/chirayu-joshi/Awesome-Flutter-Art/blob/master/chirayu-joshi/main.dart) | [chirayu-joshi](https://github.com/chirayu-joshi/) |
+| <img src="https://github.com/xyther14/Awesome-Flutter-Art/blob/master/xyther14/valorant-roulette.gif" width=80% height=90%> | [Find the code here](https://github.com/xyther14/Awesome-Flutter-Art) | [Code Creator](https://github.com/xyther14) |
 
 
 # Things to keep in mind
