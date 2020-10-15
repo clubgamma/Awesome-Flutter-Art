@@ -46,7 +46,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/corousel.gif" width=80% height=90%> | [Find the code here](https://github.com/c0decreat0r/Awesome-Flutter-Art/blob/master/c0decreat0r/) | [Code Creator](https://github.com/c0decreat0r) |
 | <img src="https://raw.githubusercontent.com/chirayu-joshi/Awesome-Flutter-Art/master/chirayu-joshi/loading_animation.gif" height="100%"> | [Find the code here](https://github.com/chirayu-joshi/Awesome-Flutter-Art/blob/master/chirayu-joshi/main.dart) | [chirayu-joshi](https://github.com/chirayu-joshi/) |
 | <img src="https://user-images.githubusercontent.com/20175372/95388035-dfcfa500-08f1-11eb-8843-e47b2290b18b.png" width=50% height=50%> | [Find the code here](https://github.com/clubgamma/Awesome-Flutter-Art/tree/master/BLKKKBVSIK) | [BLKKKBVSIK](https://github.com/BLKKKBVSIK) |
-| <img src="https://github.com/xyther14/Awesome-Flutter-Art/blob/master/xyther14/valorant-roulette.gif" width=80% height=90%> | [Find the code here](https://github.com/xyther14/Awesome-Flutter-Art) | [Code Creator](https://github.com/xyther14) |
+| <img src="https://github.com/xyther14/Awesome-Flutter-Art/blob/master/xyther14/valorant-roulette.gif" width=80% height=90%> | [Find the code here](https://github.com/xyther14/Awesome-Flutter-Art) | [Code Creator](https://github.com/xyther14) | <img src="https://raw.githubusercontent.com/amitverma-cf/flutter_instagram_redesign/stable/assets/app_ss/1.jpeg" width=80% height=90%> | [Find the code here](https://github.com/amitverma-cf/flutter_instagram_redesign) | [Amit Verma](https://github.com/amitverma-cf) |
 
 
 
