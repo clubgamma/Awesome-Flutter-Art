@@ -47,6 +47,7 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Awesome-Flutter-Art/blob
 | <img src="https://raw.githubusercontent.com/chirayu-joshi/Awesome-Flutter-Art/master/chirayu-joshi/loading_animation.gif" height="100%"> | [Find the code here](https://github.com/chirayu-joshi/Awesome-Flutter-Art/blob/master/chirayu-joshi/main.dart) | [chirayu-joshi](https://github.com/chirayu-joshi/) |
 | <img src="https://user-images.githubusercontent.com/20175372/95388035-dfcfa500-08f1-11eb-8843-e47b2290b18b.png" width=50% height=50%> | [Find the code here](https://github.com/clubgamma/Awesome-Flutter-Art/tree/master/BLKKKBVSIK) | [BLKKKBVSIK](https://github.com/BLKKKBVSIK) |
 | <img src="https://github.com/xyther14/Awesome-Flutter-Art/blob/master/xyther14/valorant-roulette.gif" width=80% height=90%> | [Find the code here](https://github.com/xyther14/Awesome-Flutter-Art) | [Code Creator](https://github.com/xyther14) |
+| <img src="https://github.com/bhavik-dodia/Awesome-Flutter-Art/blob/master/bhavik-dodia/clock.gif" > | [Find the code here](https://github.com/bhavik-dodia/Awesome-Flutter-Art/blob/master/bhavik-dodia/main_clock.dart) | [Bhavik Dodia](https://github.com/bhavik-dodia) |
 
 
 
